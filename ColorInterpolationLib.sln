@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorInterpolationLib", "ColorInterpolationLib\ColorInterpolationLib.csproj", "{44FD9122-7018-4796-8BEC-B80C9086489D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44FD9122-7018-4796-8BEC-B80C9086489D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44FD9122-7018-4796-8BEC-B80C9086489D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44FD9122-7018-4796-8BEC-B80C9086489D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44FD9122-7018-4796-8BEC-B80C9086489D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE6BDF67-6D22-4116-B100-7C9992DEA85F}
+	EndGlobalSection
+EndGlobal
